@@ -11,7 +11,7 @@ This project is a single-page CV website built as part of the Web Development Ro
 - HTML5
 
 ## How to Use
- See site Directly [Visit here]<https://code-vedant.github.io/01-single-page-cv-roadmap.sh/>
+ See site Directly [Visit here](https://code-vedant.github.io/01-single-page-cv-roadmap.sh/)
 1. Clone the repository:
     ```bash
     git clone <https://github.com/code-vedant/01-single-page-cv-roadmap.sh>
